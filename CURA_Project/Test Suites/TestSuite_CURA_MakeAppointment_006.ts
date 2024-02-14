@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite_CURA_MakeAppointment_006</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c3d0dab2-dc8a-4d31-a31f-35daaaa585a5</testSuiteGuid>
+   <testCaseLink>
+      <guid>008f630f-236a-47c5-bc0c-b09cd943caf7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_CURA_MakeAppointment_006</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f01b26c5-2aa7-4940-9f03-ee967ed864f3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DDT_TestData/DDT_CURA_MakeAppointment_006</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f01b26c5-2aa7-4940-9f03-ee967ed864f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Facility</value>
+         <variableId>920b6221-5005-486b-ac30-f74798a019b3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f01b26c5-2aa7-4940-9f03-ee967ed864f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Healthcare_Program</value>
+         <variableId>11a10823-f086-4211-a17d-349e864bf222</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f01b26c5-2aa7-4940-9f03-ee967ed864f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Comments</value>
+         <variableId>6898cee4-56f4-421d-acaa-373c13ed4f9c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f01b26c5-2aa7-4940-9f03-ee967ed864f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>date</value>
+         <variableId>f200317d-2230-4ffe-95be-b9682a807e41</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f01b26c5-2aa7-4940-9f03-ee967ed864f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Month</value>
+         <variableId>02a0b0c0-8b42-4f87-a568-f96cc2c0ece4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f01b26c5-2aa7-4940-9f03-ee967ed864f3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Year</value>
+         <variableId>21ad8cac-d799-4e57-b0da-e89cfb9aa09f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

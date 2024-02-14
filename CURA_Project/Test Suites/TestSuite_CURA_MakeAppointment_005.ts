@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite_CURA_MakeAppointment_005</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d77a342e-9c05-4e9c-bb72-508dceb22522</testSuiteGuid>
+   <testCaseLink>
+      <guid>8e3b796d-5a5a-4376-9233-681d5d50cf2e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_CURA_MakeAppointment_005</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ab02fc15-06c3-4950-bc1c-1578a4506906</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DDT_TestData/DDT_CURA_MakeAppointment_005</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ab02fc15-06c3-4950-bc1c-1578a4506906</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>year</value>
+         <variableId>536532f2-c6d6-4d5b-8b66-2d20a20ace77</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ab02fc15-06c3-4950-bc1c-1578a4506906</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>month</value>
+         <variableId>addb6874-6fba-42fc-bf44-ea8c6bdb5c83</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ab02fc15-06c3-4950-bc1c-1578a4506906</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>date</value>
+         <variableId>823d2535-3a11-4566-b515-4ff56f69b7d7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

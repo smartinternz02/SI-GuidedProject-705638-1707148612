@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite_CURA_History_007</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2037773f-30e7-4f5a-85df-fca5a1cd20fb</testSuiteGuid>
+   <testCaseLink>
+      <guid>d6f2cce6-64f3-433a-84ef-9ef5286f03b5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_CURA_History_007</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>95e04fd4-3beb-4ade-af41-27a10ae0922b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DDT_TestData/DDT_CURA_MakeAppointment_006</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>95e04fd4-3beb-4ade-af41-27a10ae0922b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>date</value>
+         <variableId>9d24b854-3a28-414d-9243-e543e12ace8a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>95e04fd4-3beb-4ade-af41-27a10ae0922b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Month</value>
+         <variableId>2c315868-5f70-4763-9c41-f26479aaf06e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>95e04fd4-3beb-4ade-af41-27a10ae0922b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Year</value>
+         <variableId>77a946f1-dc33-4347-9c96-f81613169cc7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>95e04fd4-3beb-4ade-af41-27a10ae0922b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Facility</value>
+         <variableId>366e93b1-381b-4a70-b5ff-f62c8a7023a0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>95e04fd4-3beb-4ade-af41-27a10ae0922b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Healthcare_Program</value>
+         <variableId>2ff494db-09ec-4c23-a161-5798be6f3820</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>95e04fd4-3beb-4ade-af41-27a10ae0922b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Comments</value>
+         <variableId>4b5b4c90-db2e-472f-b3a2-42e960c591f1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
