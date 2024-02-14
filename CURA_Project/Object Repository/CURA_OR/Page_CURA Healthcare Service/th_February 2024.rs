@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_February 2024</name>
+   <tag></tag>
+   <elementGuidId>28480c3c-5972-48f6-8ba9-af43bb3a625c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.datepicker-switch</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>1065f191-4e31-495a-a9c3-496173180e4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>37b6d546-d875-4d0a-a04d-96f332deeae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datepicker-switch</value>
+      <webElementGuid>99b3040a-3f5c-4e74-9a68-e9a74ed09109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>February 2024</value>
+      <webElementGuid>1d703a61-1198-481a-b5a3-eea71a62ffe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/thead[1]/tr[2]/th[@class=&quot;datepicker-switch&quot;]</value>
+      <webElementGuid>4f4b9fd9-c03f-47da-bce2-ba28a01c7101</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]</value>
+      <webElementGuid>d02a299f-1819-49c2-aea4-d51ccf72ac72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'February 2024' or . = 'February 2024')]</value>
+      <webElementGuid>52532e32-4694-41fb-b911-06c1daeeb327</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

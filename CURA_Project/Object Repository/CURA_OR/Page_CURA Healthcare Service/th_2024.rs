@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_2024</name>
+   <tag></tag>
+   <elementGuidId>8397ffef-4ce9-4acf-892c-1ae0f41f5459</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.datepicker-months > table.table-condensed > thead > tr:nth-of-type(2) > th.datepicker-switch</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/table/thead/tr[2]/th[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>c04f555a-bf95-4c6b-bcff-8b1e53e1b7b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>d6d5d35c-6b49-44cf-87e8-8fe8520edbd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datepicker-switch</value>
+      <webElementGuid>983677da-2aa3-4d06-a548-9db43eef616e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2024</value>
+      <webElementGuid>10fcb942-ebe2-4c93-92a5-e46de73b1701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-months&quot;]/table[@class=&quot;table-condensed&quot;]/thead[1]/tr[2]/th[@class=&quot;datepicker-switch&quot;]</value>
+      <webElementGuid>901d0340-f514-4d65-99b3-326c461a181b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/thead/tr[2]/th[2]</value>
+      <webElementGuid>05af34f8-cf42-48e1-97a6-680f143075e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = '2024' or . = '2024')]</value>
+      <webElementGuid>10ec2afb-89f4-480e-a0a3-313b5041432f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yearObject</name>
+   <tag></tag>
+   <elementGuidId>44f582fe-c62c-4734-a51c-0654e9995f84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div[3]/table/tbody/tr/td/span[6][count(. | //*[(text() = '${year_value}' or . = '${year_value}')]) = count(//*[(text() = '${year_value}' or . = '${year_value}')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${year_value}</value>
+      <webElementGuid>77fa6914-f9b5-4872-ade9-e5b16376a976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div[3]/table/tbody/tr/td/span[6]</value>
+      <webElementGuid>3508284b-a110-4eef-a3eb-a787de4fc1e5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2024</name>
+   <tag></tag>
+   <elementGuidId>fa90d144-ec14-4703-b016-214055ce4a51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.year.focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/table/tbody/tr/td/span[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>42f25847-7fd2-4235-b8bb-4678daf48bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>year focused</value>
+      <webElementGuid>6ddbd732-8066-4825-a704-3a81f553b94f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2024</value>
+      <webElementGuid>9efc99cd-60a1-42cc-975b-415466ebf4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-years&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[1]/td[1]/span[@class=&quot;year focused&quot;]</value>
+      <webElementGuid>1c3c6c5d-3b00-43ce-a6c7-9073f1560aeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr/td/span[6]</value>
+      <webElementGuid>728e73b6-fcf6-4e30-97d1-7b0ca91b84d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2024' or . = '2024')]</value>
+      <webElementGuid>d96914a0-e61d-4dc1-9633-92ae74e22a49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
