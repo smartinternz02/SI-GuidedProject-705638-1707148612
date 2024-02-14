@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DDT_CURA_MakeAppointment_006</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c9cd36c6-3ce9-4c76-b6fa-3e6ec252f0d2</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>15 Feb 2024 Tokyo+CURA+Healthcare+Center medicare null</data>
+   <data>20 Mar 2024 Tokyo+CURA+Healthcare+Center medicaid Hello</data>
+   <data>1 Apr 2024 Tokyo+CURA+Healthcare+Center none This+is+1st+test+comment</data>
+   <data>3 May 2024 Tokyo+CURA+Healthcare+Center medicare This+is+2nd+test</data>
+   <data>5 Jun 2024 Hongkong+CURA+Healthcare+Center medicaid null</data>
+   <data>10 Jul 2024 Hongkong+CURA+Healthcare+Center none Hello</data>
+   <data>12 Aug 2024 Hongkong+CURA+Healthcare+Center medicare This+is+1st+test+comment</data>
+   <data>18 Sep 2024 Hongkong+CURA+Healthcare+Center medicaid This+is+2nd+test</data>
+   <data>21 Oct 2024 Seoul+CURA+Healthcare+Center none null</data>
+   <data>24 Nov 2024 Seoul+CURA+Healthcare+Center medicare Hello</data>
+   <data>26 Dec 2024 Seoul+CURA+Healthcare+Center medicaid This+is+1st+test+comment</data>
+   <data>9 Jan 2024 Seoul+CURA+Healthcare+Center none This+is+2nd+test</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>date</name>
+      <size>12</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Month</name>
+      <size>12</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Year</name>
+      <size>12</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>Facility</name>
+      <size>12</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>Healthcare_Program</name>
+      <size>12</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>Comments</name>
+      <size>12</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
