@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CURA_MakeAppointment_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d22969de-b50c-4299-bd93-ecec784bddf1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>536532f2-c6d6-4d5b-8b66-2d20a20ace77</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>addb6874-6fba-42fc-bf44-ea8c6bdb5c83</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>823d2535-3a11-4566-b515-4ff56f69b7d7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>536532f2-c6d6-4d5b-8b66-2d20a20ace77</id>
+      <masked>false</masked>
+      <name>year</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>addb6874-6fba-42fc-bf44-ea8c6bdb5c83</id>
+      <masked>false</masked>
+      <name>month</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>823d2535-3a11-4566-b515-4ff56f69b7d7</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+</TestCaseEntity>

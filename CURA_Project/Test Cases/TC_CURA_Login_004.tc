@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CURA_Login_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ad090db-3a48-489d-b01f-6b68e5c114bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe03f342-1013-4862-b0d4-5aaae7545a97</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92d3ce2b-6e05-419e-b876-61f7805ffa9e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe03f342-1013-4862-b0d4-5aaae7545a97</id>
+      <masked>false</masked>
+      <name>u_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92d3ce2b-6e05-419e-b876-61f7805ffa9e</id>
+      <masked>false</masked>
+      <name>u_pass</name>
+   </variable>
+</TestCaseEntity>
