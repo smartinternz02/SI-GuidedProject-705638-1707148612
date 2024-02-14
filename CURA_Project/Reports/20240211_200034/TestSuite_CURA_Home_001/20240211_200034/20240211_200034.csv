@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_CURA_Home_001,Chrome 121.0.0.0,,,11-02-2024 20:00:43,11-02-2024 20:00:58,14.945s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_Home_001,Chrome 121.0.0.0,,,11-02-2024 20:00:54,11-02-2024 20:00:58,3.158s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,11-02-2024 20:00:54,11-02-2024 20:00:54,0.016s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/h1_CURA Healthcare Service""), 0)",Chrome 121.0.0.0,,,11-02-2024 20:00:55,11-02-2024 20:00:55,0.481s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Make Appointment""), 0)",Chrome 121.0.0.0,,,11-02-2024 20:00:55,11-02-2024 20:00:56,0.429s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/amenu-toggle""), 0)",Chrome 121.0.0.0,,,11-02-2024 20:00:56,11-02-2024 20:00:56,0.462s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/i_fa fa-bars""))",Chrome 121.0.0.0,,,11-02-2024 20:00:56,11-02-2024 20:00:57,0.461s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Home""), 0)",Chrome 121.0.0.0,,,11-02-2024 20:00:57,11-02-2024 20:00:57,0.499s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Login""), 0)",Chrome 121.0.0.0,,,11-02-2024 20:00:57,11-02-2024 20:00:57,0.426s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,11-02-2024 20:00:57,11-02-2024 20:00:57,0.014s,PASSED

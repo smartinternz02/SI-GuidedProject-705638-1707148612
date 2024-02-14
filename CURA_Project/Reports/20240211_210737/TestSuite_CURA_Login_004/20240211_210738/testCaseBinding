@@ -1,0 +1,4 @@
+{"testCaseName":"Test Cases/TC_CURA_Login_004","testCaseId":"Test Cases/TC_CURA_Login_004","iterationVariableName":"","bindedValues":{"u_name":"\u0027\u0027","u_pass":"\u0027\u0027"}}
+{"testCaseName":"Test Cases/TC_CURA_Login_004","testCaseId":"Test Cases/TC_CURA_Login_004","iterationVariableName":"","bindedValues":{"u_name":"\u0027John Doe\u0027","u_pass":"\u0027\u0027"}}
+{"testCaseName":"Test Cases/TC_CURA_Login_004","testCaseId":"Test Cases/TC_CURA_Login_004","iterationVariableName":"","bindedValues":{"u_name":"\u0027\u0027","u_pass":"\u0027ThisIsNotAPassword\u0027"}}
+{"testCaseName":"Test Cases/TC_CURA_Login_004","testCaseId":"Test Cases/TC_CURA_Login_004","iterationVariableName":"","bindedValues":{"u_name":"\u0027Sarvan\u0027","u_pass":"\u0027sarvan123\u0027"}}

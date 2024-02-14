@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite_CURA_Login_003" time="19.112" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite_CURA_Login_003" tests="1" failures="0" errors="0" time="19.112" skipped="0" timestamp="11-02-2024T20:40:53" hostname="DELL - DESKTOP-M964U7P" id="Test Suites/TestSuite_CURA_Login_003">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\DELL\\Katalon Studio\\Software_Test_Automation_CURA\\Reports\\20240211_204042\\TestSuite_CURA_Login_003\\20240211_204042"/>
+         <property name="logFiles" value="C:\\Users\\DELL\\Katalon Studio\\Software_Test_Automation_CURA\\Reports\\20240211_204042\\TestSuite_CURA_Login_003\\20240211_204042\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="DELL - DESKTOP-M964U7P"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.55.101"/>
+         <property name="sessionId" value="ca7e720053d32b3865cd2e7255c0fe9c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC_CURA_Login_003" time="10.064" classname="Test Cases/TC_CURA_Login_003" status="PASSED">
+         <system-out><![CDATA[11-02-2024T20:41:02 - [TEST_CASE][PASSED] - Test Cases/TC_CURA_Login_003: Test Cases/TC_CURA_Login_003
+
+11-02-2024T20:41:02 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+11-02-2024T20:41:02 - [TEST_STEP][PASSED] - println("Before Test Case"): null
+
+11-02-2024T20:41:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/amenu-toggle")): Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/amenu-toggle' is clicked on
+
+11-02-2024T20:41:03 - [MESSAGE][PASSED] - Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/amenu-toggle' is clicked on
+
+11-02-2024T20:41:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Login")): Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Login' is clicked on
+
+11-02-2024T20:41:04 - [MESSAGE][PASSED] - Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Login' is clicked on
+
+11-02-2024T20:41:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/input_username"), username): Text 'John Doe' is set on object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/input_username'
+
+11-02-2024T20:41:05 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/input_username'
+
+11-02-2024T20:41:05 - [TEST_STEP][PASSED] - setText(findTestObject("CURA_OR/Page_CURA Healthcare Service/input_password"), password): Text 'ThisIsNotAPassword' is set on object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/input_password'
+
+11-02-2024T20:41:06 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/input_password'
+
+11-02-2024T20:41:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Login' is clicked on
+
+11-02-2024T20:41:10 - [MESSAGE][PASSED] - Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Login' is clicked on
+
+11-02-2024T20:41:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/amenu-toggle")): Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/amenu-toggle' is clicked on
+
+11-02-2024T20:41:10 - [MESSAGE][PASSED] - Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/amenu-toggle' is clicked on
+
+11-02-2024T20:41:10 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Logout"), 0): Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Logout' is present
+
+11-02-2024T20:41:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+11-02-2024T20:41:11 - [MESSAGE][PASSED] - Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Logout' is present
+
+11-02-2024T20:41:11 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Logout' is clicked on
+
+11-02-2024T20:41:11 - [TEST_STEP][PASSED] - println("After Test Case -- Logging out"): null
+
+11-02-2024T20:41:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Logout")): Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Logout' is clicked on
+
+11-02-2024T20:41:12 - [MESSAGE][PASSED] - Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Logout' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[11-02-2024T20:40:53 - [TEST_SUITE][PASSED] - TestSuite_CURA_Login_003: Test Cases/TC_CURA_Login_003]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

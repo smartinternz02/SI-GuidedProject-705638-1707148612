@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite_CURA_Home_001" time="14.945" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite_CURA_Home_001" tests="1" failures="0" errors="0" time="14.945" skipped="0" timestamp="11-02-2024T20:00:43" hostname="DELL - DESKTOP-M964U7P" id="Test Suites/TestSuite_CURA_Home_001">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\DELL\\Katalon Studio\\Software_Test_Automation_CURA\\Reports\\20240211_200034\\TestSuite_CURA_Home_001\\20240211_200034"/>
+         <property name="logFiles" value="C:\\Users\\DELL\\Katalon Studio\\Software_Test_Automation_CURA\\Reports\\20240211_200034\\TestSuite_CURA_Home_001\\20240211_200034\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="DELL - DESKTOP-M964U7P"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.55.101"/>
+         <property name="sessionId" value="5a2201ba505c0999cfc84576ed95bba3"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC_CURA_Home_001" time="3.158" classname="Test Cases/TC_CURA_Home_001" status="PASSED">
+         <system-out><![CDATA[11-02-2024T20:00:54 - [TEST_CASE][PASSED] - Test Cases/TC_CURA_Home_001: Test Cases/TC_CURA_Home_001
+
+11-02-2024T20:00:54 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+11-02-2024T20:00:54 - [TEST_STEP][PASSED] - println("Before Test Case"): null
+
+11-02-2024T20:00:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/h1_CURA Healthcare Service"), 0): Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is present
+
+11-02-2024T20:00:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+11-02-2024T20:00:55 - [MESSAGE][PASSED] - Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is present
+
+11-02-2024T20:00:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Make Appointment"), 0): Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Make Appointment' is present
+
+11-02-2024T20:00:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+11-02-2024T20:00:56 - [MESSAGE][PASSED] - Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Make Appointment' is present
+
+11-02-2024T20:00:56 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/amenu-toggle"), 0): Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/amenu-toggle' is present
+
+11-02-2024T20:00:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+11-02-2024T20:00:56 - [MESSAGE][PASSED] - Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/amenu-toggle' is present
+
+11-02-2024T20:00:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/i_fa fa-bars")): Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/i_fa fa-bars' is clicked on
+
+11-02-2024T20:00:57 - [MESSAGE][PASSED] - Object: 'Object Repository/CURA_OR/Page_CURA Healthcare Service/i_fa fa-bars' is clicked on
+
+11-02-2024T20:00:57 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Home"), 0): Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Home' is present
+
+11-02-2024T20:00:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+11-02-2024T20:00:57 - [MESSAGE][PASSED] - Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Home' is present
+
+11-02-2024T20:00:57 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Login"), 0): Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Login' is present
+
+11-02-2024T20:00:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+11-02-2024T20:00:57 - [MESSAGE][PASSED] - Object 'Object Repository/CURA_OR/Page_CURA Healthcare Service/a_Login' is present
+
+11-02-2024T20:00:57 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+11-02-2024T20:00:57 - [TEST_STEP][PASSED] - println("After Test Case"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[11-02-2024T20:00:43 - [TEST_SUITE][PASSED] - TestSuite_CURA_Home_001: Test Cases/TC_CURA_Home_001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

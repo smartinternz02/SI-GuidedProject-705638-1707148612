@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation",
+      "brokenLocator": "//section[@id\u003d\u0027summary\u0027]/div/div/div/h2",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h2",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation_position.png"
+    }
+  ]
+}

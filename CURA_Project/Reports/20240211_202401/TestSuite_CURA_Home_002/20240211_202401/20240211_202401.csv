@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_CURA_Home_002,Chrome 121.0.0.0,,,11-02-2024 20:24:11,11-02-2024 20:24:22,10.757s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_Home_002,Chrome 121.0.0.0,,,11-02-2024 20:24:20,11-02-2024 20:24:22,1.866s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,11-02-2024 20:24:20,11-02-2024 20:24:20,0.021s,PASSED
+"verifyElementText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/strong_CURA Healthcare Service""), ""CURA Healthcare Service"")",Chrome 121.0.0.0,,,11-02-2024 20:24:20,11-02-2024 20:24:21,0.486s,PASSED
+"verifyElementText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/p_Atlanta 550 Pharr Road NE Suite 525Atlant_8f4c85""), ""Atlanta 550 Pharr Road NE Suite 525
+Atlanta, GA 30305"")",Chrome 121.0.0.0,,,11-02-2024 20:24:21,11-02-2024 20:24:21,0.355s,PASSED
+"verifyElementText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/li_(678) 813-1KMS""), ""(678) 813-1KMS"")",Chrome 121.0.0.0,,,11-02-2024 20:24:21,11-02-2024 20:24:21,0.388s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/a_infokatalon.com""))",Chrome 121.0.0.0,,,11-02-2024 20:24:21,11-02-2024 20:24:22,0.361s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,11-02-2024 20:24:22,11-02-2024 20:24:22,0.005s,PASSED

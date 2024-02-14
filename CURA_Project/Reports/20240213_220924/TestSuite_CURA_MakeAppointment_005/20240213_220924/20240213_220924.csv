@@ -1,0 +1,402 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:09:33,13-02-2024 22:20:13,10m - 39.629s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:09:42,13-02-2024 22:09:53,10.487s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:09:42,13-02-2024 22:09:48,5.422s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:09:48,13-02-2024 22:09:49,0.448s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:09:49,13-02-2024 22:09:49,0.532s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:09:49,13-02-2024 22:09:49,0.350s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:09:49,13-02-2024 22:09:51,1.647s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:09:51,13-02-2024 22:09:53,1.774s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:09:53,13-02-2024 22:10:07,13.518s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:09:53,13-02-2024 22:10:02,8.760s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:10:02,13-02-2024 22:10:02,0.464s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:02,13-02-2024 22:10:03,0.465s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:03,13-02-2024 22:10:03,0.399s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:10:03,13-02-2024 22:10:05,1.492s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:10:05,13-02-2024 22:10:07,1.900s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:10:07,13-02-2024 22:10:17,10.440s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:10:07,13-02-2024 22:10:11,4.797s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:10:11,13-02-2024 22:10:12,0.445s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:12,13-02-2024 22:10:12,0.538s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:12,13-02-2024 22:10:13,0.411s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:10:13,13-02-2024 22:10:14,1.510s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:10:14,13-02-2024 22:10:17,2.710s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:10:17,13-02-2024 22:10:28,10.626s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:10:17,13-02-2024 22:10:23,5.607s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:10:23,13-02-2024 22:10:23,0.517s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:23,13-02-2024 22:10:24,0.486s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:24,13-02-2024 22:10:24,0.360s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:10:24,13-02-2024 22:10:26,1.710s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:10:26,13-02-2024 22:10:28,1.890s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:10:28,13-02-2024 22:10:40,11.773s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:10:28,13-02-2024 22:10:33,5.078s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:10:33,13-02-2024 22:10:34,0.651s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:34,13-02-2024 22:10:34,0.532s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:34,13-02-2024 22:10:35,0.401s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:10:35,13-02-2024 22:10:36,1.534s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:10:36,13-02-2024 22:10:40,3.542s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:10:40,13-02-2024 22:10:52,12.743s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:10:40,13-02-2024 22:10:47,6.849s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:10:47,13-02-2024 22:10:47,0.479s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:47,13-02-2024 22:10:48,0.541s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:48,13-02-2024 22:10:48,0.403s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:10:48,13-02-2024 22:10:49,1.445s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:10:49,13-02-2024 22:10:52,2.946s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:10:53,13-02-2024 22:11:03,10.916s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:10:53,13-02-2024 22:10:58,5.274s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:10:58,13-02-2024 22:10:58,0.551s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:58,13-02-2024 22:10:59,0.555s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:10:59,13-02-2024 22:10:59,0.406s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:10:59,13-02-2024 22:11:01,1.462s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:01,13-02-2024 22:11:03,2.632s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:11:04,13-02-2024 22:11:13,9.840s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:04,13-02-2024 22:11:08,4.950s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:11:08,13-02-2024 22:11:09,0.458s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:11:09,13-02-2024 22:11:10,0.694s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:11:10,13-02-2024 22:11:10,0.407s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:11:10,13-02-2024 22:11:12,1.523s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:12,13-02-2024 22:11:13,1.784s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:11:13,13-02-2024 22:11:23,9.160s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:13,13-02-2024 22:11:18,4.660s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:11:18,13-02-2024 22:11:19,0.479s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:11:19,13-02-2024 22:11:19,0.503s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:11:19,13-02-2024 22:11:19,0.324s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:11:19,13-02-2024 22:11:21,1.480s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:21,13-02-2024 22:11:23,1.673s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:11:23,13-02-2024 22:11:35,12.479s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:23,13-02-2024 22:11:30,7.822s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:11:30,13-02-2024 22:11:31,0.448s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:11:31,13-02-2024 22:11:32,0.576s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:11:32,13-02-2024 22:11:32,0.357s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:11:32,13-02-2024 22:11:33,1.357s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:33,13-02-2024 22:11:35,1.898s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:11:35,13-02-2024 22:11:46,11.291s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:35,13-02-2024 22:11:41,6.245s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:11:41,13-02-2024 22:11:42,0.514s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:11:42,13-02-2024 22:11:43,0.615s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:11:43,13-02-2024 22:11:43,0.378s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:11:43,13-02-2024 22:11:44,1.447s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:44,13-02-2024 22:11:46,2.064s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:11:47,13-02-2024 22:11:59,12.038s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:47,13-02-2024 22:11:52,5.034s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:11:52,13-02-2024 22:11:52,0.503s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:11:52,13-02-2024 22:11:53,0.556s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:11:53,13-02-2024 22:11:53,0.386s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:11:53,13-02-2024 22:11:55,1.465s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:55,13-02-2024 22:11:59,4.062s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:11:59,13-02-2024 22:12:15,16.347s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:11:59,13-02-2024 22:12:06,6.943s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:12:06,13-02-2024 22:12:06,0.560s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:12:06,13-02-2024 22:12:07,0.577s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:12:07,13-02-2024 22:12:07,0.432s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:12:07,13-02-2024 22:12:12,4.889s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:12:12,13-02-2024 22:12:15,2.926s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:12:15,13-02-2024 22:12:29,14.078s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:12:15,13-02-2024 22:12:21,5.664s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:12:21,13-02-2024 22:12:21,0.610s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:12:21,13-02-2024 22:12:22,0.555s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:12:22,13-02-2024 22:12:22,0.393s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:12:22,13-02-2024 22:12:27,5.167s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:12:27,13-02-2024 22:12:29,1.658s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:12:29,13-02-2024 22:12:45,16.199s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:12:29,13-02-2024 22:12:34,4.798s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:12:34,13-02-2024 22:12:34,0.436s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:12:34,13-02-2024 22:12:35,0.575s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:12:35,13-02-2024 22:12:35,0.354s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:12:35,13-02-2024 22:12:43,7.843s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:12:43,13-02-2024 22:12:45,2.165s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:12:45,13-02-2024 22:12:58,12.305s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:12:45,13-02-2024 22:12:50,4.827s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:12:50,13-02-2024 22:12:51,0.444s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:12:51,13-02-2024 22:12:51,0.657s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:12:51,13-02-2024 22:12:52,0.377s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:12:52,13-02-2024 22:12:56,4.384s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:12:56,13-02-2024 22:12:58,1.590s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:12:58,13-02-2024 22:13:15,16.842s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:12:58,13-02-2024 22:13:05,7.616s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:13:05,13-02-2024 22:13:06,0.457s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:13:06,13-02-2024 22:13:06,0.562s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:13:06,13-02-2024 22:13:07,0.363s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:13:07,13-02-2024 22:13:12,4.800s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:13:12,13-02-2024 22:13:15,3.020s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:13:15,13-02-2024 22:13:29,14.754s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:13:15,13-02-2024 22:13:20,5.516s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:13:20,13-02-2024 22:13:21,0.511s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:13:21,13-02-2024 22:13:21,0.490s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:13:21,13-02-2024 22:13:22,0.400s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:13:22,13-02-2024 22:13:28,5.854s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:13:28,13-02-2024 22:13:29,1.945s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:13:30,13-02-2024 22:13:47,17.076s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:13:30,13-02-2024 22:13:38,8.310s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:13:38,13-02-2024 22:13:38,0.466s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:13:38,13-02-2024 22:13:39,0.622s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:13:39,13-02-2024 22:13:39,0.386s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:13:39,13-02-2024 22:13:45,5.436s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:13:45,13-02-2024 22:13:47,1.839s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:13:47,13-02-2024 22:14:01,14.203s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:13:47,13-02-2024 22:13:53,6.401s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:13:53,13-02-2024 22:13:54,0.497s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:13:54,13-02-2024 22:13:54,0.587s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:13:54,13-02-2024 22:13:55,0.348s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:13:55,13-02-2024 22:13:59,4.778s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:13:59,13-02-2024 22:14:01,1.564s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:14:01,13-02-2024 22:14:13,12.387s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:14:01,13-02-2024 22:14:06,4.626s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:14:06,13-02-2024 22:14:06,0.663s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:14:06,13-02-2024 22:14:07,0.513s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:14:07,13-02-2024 22:14:07,0.406s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:14:07,13-02-2024 22:14:12,4.603s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:14:12,13-02-2024 22:14:13,1.555s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:14:13,13-02-2024 22:14:26,12.486s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:14:13,13-02-2024 22:14:18,4.621s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:14:18,13-02-2024 22:14:19,0.600s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:14:19,13-02-2024 22:14:19,0.540s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:14:19,13-02-2024 22:14:20,0.411s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:14:20,13-02-2024 22:14:24,4.613s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:14:24,13-02-2024 22:14:26,1.662s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:14:26,13-02-2024 22:14:41,15.456s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:14:26,13-02-2024 22:14:32,5.837s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:14:32,13-02-2024 22:14:32,0.591s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:14:32,13-02-2024 22:14:33,0.614s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:14:33,13-02-2024 22:14:33,0.450s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:14:33,13-02-2024 22:14:39,6.039s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:14:39,13-02-2024 22:14:41,1.903s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:14:41,13-02-2024 22:14:54,12.599s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:14:41,13-02-2024 22:14:46,4.569s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:14:46,13-02-2024 22:14:47,0.638s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:14:47,13-02-2024 22:14:47,0.537s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:14:47,13-02-2024 22:14:48,0.422s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:14:48,13-02-2024 22:14:52,4.808s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:14:52,13-02-2024 22:14:54,1.598s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:14:54,13-02-2024 22:15:07,13.410s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:14:54,13-02-2024 22:14:59,5.376s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:14:59,13-02-2024 22:15:00,0.459s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:00,13-02-2024 22:15:01,0.598s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:01,13-02-2024 22:15:01,0.446s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:15:01,13-02-2024 22:15:06,4.796s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:15:06,13-02-2024 22:15:07,1.711s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:15:08,13-02-2024 22:15:20,12.051s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:15:08,13-02-2024 22:15:12,4.567s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:15:12,13-02-2024 22:15:13,0.500s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:13,13-02-2024 22:15:13,0.608s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:13,13-02-2024 22:15:14,0.377s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:15:14,13-02-2024 22:15:18,4.462s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:15:18,13-02-2024 22:15:20,1.517s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:15:20,13-02-2024 22:15:32,12.175s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:15:20,13-02-2024 22:15:24,4.386s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:15:24,13-02-2024 22:15:25,0.460s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:25,13-02-2024 22:15:25,0.647s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:25,13-02-2024 22:15:26,0.361s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:15:26,13-02-2024 22:15:30,4.489s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:15:30,13-02-2024 22:15:32,1.807s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:15:32,13-02-2024 22:15:43,11.591s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:15:32,13-02-2024 22:15:36,3.996s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:15:36,13-02-2024 22:15:37,0.610s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:37,13-02-2024 22:15:37,0.440s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:37,13-02-2024 22:15:37,0.383s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:15:37,13-02-2024 22:15:42,4.412s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:15:42,13-02-2024 22:15:43,1.735s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:15:44,13-02-2024 22:15:55,11.469s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:15:44,13-02-2024 22:15:48,3.994s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:15:48,13-02-2024 22:15:48,0.438s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:48,13-02-2024 22:15:49,0.630s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:49,13-02-2024 22:15:49,0.366s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:15:49,13-02-2024 22:15:53,4.384s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:15:53,13-02-2024 22:15:55,1.629s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:15:55,13-02-2024 22:16:07,11.844s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:15:55,13-02-2024 22:15:59,3.911s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:15:59,13-02-2024 22:15:59,0.464s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:15:59,13-02-2024 22:16:00,0.675s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:16:00,13-02-2024 22:16:01,0.471s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:16:01,13-02-2024 22:16:05,4.654s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:16:05,13-02-2024 22:16:07,1.655s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:16:07,13-02-2024 22:16:19,11.637s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:16:07,13-02-2024 22:16:11,3.995s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:16:11,13-02-2024 22:16:11,0.457s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:16:11,13-02-2024 22:16:12,0.650s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:16:12,13-02-2024 22:16:12,0.356s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:16:12,13-02-2024 22:16:17,4.511s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:16:17,13-02-2024 22:16:19,1.624s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:16:19,13-02-2024 22:16:31,12.271s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:16:19,13-02-2024 22:16:23,4.575s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:16:23,13-02-2024 22:16:24,0.443s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:16:24,13-02-2024 22:16:24,0.642s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:16:24,13-02-2024 22:16:25,0.414s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:16:25,13-02-2024 22:16:29,4.635s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:16:29,13-02-2024 22:16:31,1.542s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:16:31,13-02-2024 22:16:47,15.837s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:16:31,13-02-2024 22:16:39,7.626s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:16:39,13-02-2024 22:16:39,0.603s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:16:39,13-02-2024 22:16:40,0.658s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:16:40,13-02-2024 22:16:40,0.384s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:16:40,13-02-2024 22:16:45,5.040s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:16:45,13-02-2024 22:16:47,1.488s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:16:47,13-02-2024 22:17:03,15.734s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:16:47,13-02-2024 22:16:54,6.777s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:16:54,13-02-2024 22:16:54,0.530s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:16:54,13-02-2024 22:16:55,0.540s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:16:55,13-02-2024 22:16:55,0.438s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:16:55,13-02-2024 22:17:01,5.426s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:17:01,13-02-2024 22:17:03,1.985s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:17:03,13-02-2024 22:17:15,12.788s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:17:03,13-02-2024 22:17:07,4.682s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:17:07,13-02-2024 22:17:08,0.469s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:17:08,13-02-2024 22:17:09,0.672s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:17:09,13-02-2024 22:17:09,0.390s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:17:09,13-02-2024 22:17:14,4.755s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:17:14,13-02-2024 22:17:15,1.801s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:17:16,13-02-2024 22:17:28,12.357s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:17:16,13-02-2024 22:17:20,4.627s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:17:20,13-02-2024 22:17:21,0.489s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:17:21,13-02-2024 22:17:21,0.485s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:17:21,13-02-2024 22:17:22,0.430s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:17:22,13-02-2024 22:17:26,4.735s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:17:26,13-02-2024 22:17:28,1.530s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:17:28,13-02-2024 22:17:43,15.136s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:17:28,13-02-2024 22:17:32,4.423s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:17:32,13-02-2024 22:17:33,0.621s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:17:33,13-02-2024 22:17:34,0.632s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:17:34,13-02-2024 22:17:34,0.365s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:17:34,13-02-2024 22:17:40,5.752s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:17:40,13-02-2024 22:17:43,3.325s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:17:43,13-02-2024 22:18:01,17.451s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:17:43,13-02-2024 22:17:52,9.145s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:17:52,13-02-2024 22:17:53,0.455s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:17:53,13-02-2024 22:17:53,0.584s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:17:53,13-02-2024 22:17:54,0.386s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:17:54,13-02-2024 22:17:59,5.051s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:17:59,13-02-2024 22:18:01,1.802s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:18:01,13-02-2024 22:18:14,13.596s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:18:01,13-02-2024 22:18:06,5.632s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:18:06,13-02-2024 22:18:07,0.500s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:18:07,13-02-2024 22:18:07,0.621s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:18:07,13-02-2024 22:18:08,0.399s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:18:08,13-02-2024 22:18:13,4.800s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:18:13,13-02-2024 22:18:14,1.634s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:18:14,13-02-2024 22:18:28,13.741s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:18:14,13-02-2024 22:18:19,4.518s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:18:19,13-02-2024 22:18:19,0.447s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:18:19,13-02-2024 22:18:20,0.563s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:18:20,13-02-2024 22:18:20,0.381s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:18:20,13-02-2024 22:18:26,5.856s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:18:26,13-02-2024 22:18:28,1.938s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:18:28,13-02-2024 22:18:41,12.661s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:18:28,13-02-2024 22:18:33,4.963s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:18:33,13-02-2024 22:18:34,0.657s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:18:34,13-02-2024 22:18:34,0.454s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:18:34,13-02-2024 22:18:35,0.339s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:18:35,13-02-2024 22:18:39,4.707s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:18:39,13-02-2024 22:18:41,1.522s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:18:41,13-02-2024 22:18:53,12.540s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:18:41,13-02-2024 22:18:45,4.618s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:18:45,13-02-2024 22:18:46,0.483s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:18:46,13-02-2024 22:18:47,0.568s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:18:47,13-02-2024 22:18:47,0.380s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:18:47,13-02-2024 22:18:52,4.606s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:18:52,13-02-2024 22:18:53,1.854s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:18:53,13-02-2024 22:19:06,12.133s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:18:53,13-02-2024 22:19:01,7.603s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:19:01,13-02-2024 22:19:01,0.459s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:01,13-02-2024 22:19:02,0.633s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:02,13-02-2024 22:19:02,0.323s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:19:02,13-02-2024 22:19:04,1.379s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:04,13-02-2024 22:19:06,1.722s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:19:06,13-02-2024 22:19:15,8.993s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:06,13-02-2024 22:19:10,4.532s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:19:10,13-02-2024 22:19:11,0.448s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:11,13-02-2024 22:19:11,0.632s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:11,13-02-2024 22:19:12,0.355s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:19:12,13-02-2024 22:19:13,1.445s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:13,13-02-2024 22:19:15,1.557s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:19:15,13-02-2024 22:19:23,8.784s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:15,13-02-2024 22:19:19,4.383s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:19:19,13-02-2024 22:19:20,0.488s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:20,13-02-2024 22:19:20,0.523s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:20,13-02-2024 22:19:20,0.367s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:19:20,13-02-2024 22:19:22,1.410s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:22,13-02-2024 22:19:23,1.595s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:19:23,13-02-2024 22:19:32,8.523s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:24,13-02-2024 22:19:28,4.023s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:19:28,13-02-2024 22:19:28,0.350s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:28,13-02-2024 22:19:28,0.492s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:28,13-02-2024 22:19:29,0.390s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:19:29,13-02-2024 22:19:30,1.644s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:30,13-02-2024 22:19:32,1.593s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:19:32,13-02-2024 22:19:41,8.821s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:32,13-02-2024 22:19:36,4.181s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:19:36,13-02-2024 22:19:37,0.538s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:37,13-02-2024 22:19:37,0.488s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:37,13-02-2024 22:19:38,0.367s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:19:38,13-02-2024 22:19:39,1.401s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:39,13-02-2024 22:19:41,1.833s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:19:41,13-02-2024 22:19:51,9.805s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:41,13-02-2024 22:19:45,4.384s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:19:45,13-02-2024 22:19:46,0.447s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:46,13-02-2024 22:19:46,0.595s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:46,13-02-2024 22:19:47,0.418s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:19:47,13-02-2024 22:19:48,1.654s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:48,13-02-2024 22:19:51,2.293s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:19:51,13-02-2024 22:20:01,10.465s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:51,13-02-2024 22:19:55,4.590s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:19:55,13-02-2024 22:19:56,0.498s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:56,13-02-2024 22:19:56,0.528s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:19:56,13-02-2024 22:19:57,0.423s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:19:57,13-02-2024 22:19:58,1.454s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:19:58,13-02-2024 22:20:01,2.950s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_005,Chrome 121.0.0.0,,,13-02-2024 22:20:01,13-02-2024 22:20:13,11.418s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,13-02-2024 22:20:01,13-02-2024 22:20:08,6.452s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,13-02-2024 22:20:08,13-02-2024 22:20:08,0.448s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,13-02-2024 22:20:08,13-02-2024 22:20:09,0.656s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,13-02-2024 22:20:09,13-02-2024 22:20:09,0.462s,PASSED
+"com.qa.test.custom_keyword.validateAppointmentDate(date, month, year)",Chrome 121.0.0.0,,,13-02-2024 22:20:09,13-02-2024 22:20:11,1.604s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,13-02-2024 22:20:11,13-02-2024 22:20:13,1.783s,PASSED

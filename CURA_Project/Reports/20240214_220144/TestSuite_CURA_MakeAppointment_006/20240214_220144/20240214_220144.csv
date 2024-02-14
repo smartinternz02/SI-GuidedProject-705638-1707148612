@@ -1,0 +1,170 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:01:53,14-02-2024 22:04:43,2m - 50.032s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:02:01,14-02-2024 22:02:17,15.532s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:02:01,14-02-2024 22:02:06,4.449s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:02:06,14-02-2024 22:02:07,1.005s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:02:07,14-02-2024 22:02:07,0.402s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:02:07,14-02-2024 22:02:08,0.613s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:02:08,14-02-2024 22:02:08,0.416s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:02:08,14-02-2024 22:02:09,0.526s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:02:09,14-02-2024 22:02:09,0.527s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:02:09,14-02-2024 22:02:10,0.539s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:02:10,14-02-2024 22:02:11,0.978s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:02:11,14-02-2024 22:02:13,2.063s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:02:13,14-02-2024 22:02:14,0.506s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:02:14,14-02-2024 22:02:17,3.039s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:02:17,14-02-2024 22:02:36,19.451s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:02:17,14-02-2024 22:02:26,9.323s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:02:26,14-02-2024 22:02:27,1.140s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:02:27,14-02-2024 22:02:28,0.388s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:02:28,14-02-2024 22:02:28,0.468s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:02:28,14-02-2024 22:02:28,0.340s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:02:28,14-02-2024 22:02:29,0.463s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:02:29,14-02-2024 22:02:29,0.560s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:02:29,14-02-2024 22:02:30,0.577s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:02:30,14-02-2024 22:02:31,0.891s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:02:31,14-02-2024 22:02:33,1.647s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:02:33,14-02-2024 22:02:33,0.455s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:02:33,14-02-2024 22:02:36,3.149s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:02:36,14-02-2024 22:02:50,13.753s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:02:36,14-02-2024 22:02:42,5.366s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:02:42,14-02-2024 22:02:43,1.199s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:02:43,14-02-2024 22:02:43,0.471s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:02:43,14-02-2024 22:02:44,0.546s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:02:44,14-02-2024 22:02:44,0.479s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:02:44,14-02-2024 22:02:45,0.460s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:02:45,14-02-2024 22:02:45,0.556s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:02:45,14-02-2024 22:02:46,0.541s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:02:46,14-02-2024 22:02:47,0.932s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:02:47,14-02-2024 22:02:48,1.050s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:02:48,14-02-2024 22:02:48,0.480s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:02:48,14-02-2024 22:02:50,1.588s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:02:50,14-02-2024 22:03:02,12.304s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:02:50,14-02-2024 22:02:55,4.377s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:02:55,14-02-2024 22:02:56,1.214s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:02:56,14-02-2024 22:02:56,0.417s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:02:56,14-02-2024 22:02:57,0.474s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:02:57,14-02-2024 22:02:57,0.412s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:02:57,14-02-2024 22:02:58,0.433s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:02:58,14-02-2024 22:02:58,0.529s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:02:58,14-02-2024 22:02:59,0.571s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:02:59,14-02-2024 22:03:00,0.893s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:03:00,14-02-2024 22:03:00,0.809s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:03:00,14-02-2024 22:03:01,0.488s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:03:01,14-02-2024 22:03:02,1.650s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:03:03,14-02-2024 22:03:15,12.660s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:03:03,14-02-2024 22:03:07,4.628s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:03:07,14-02-2024 22:03:09,1.197s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:03:09,14-02-2024 22:03:09,0.417s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:03:09,14-02-2024 22:03:10,0.609s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:03:10,14-02-2024 22:03:10,0.407s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:03:10,14-02-2024 22:03:10,0.489s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:03:10,14-02-2024 22:03:11,0.590s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:03:11,14-02-2024 22:03:12,0.568s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:03:12,14-02-2024 22:03:12,0.875s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:03:12,14-02-2024 22:03:13,0.726s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:03:13,14-02-2024 22:03:14,0.384s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:03:14,14-02-2024 22:03:15,1.694s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:03:15,14-02-2024 22:03:27,12.033s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:03:15,14-02-2024 22:03:20,4.107s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:03:20,14-02-2024 22:03:21,1.185s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:03:21,14-02-2024 22:03:21,0.394s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:03:21,14-02-2024 22:03:22,0.515s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:03:22,14-02-2024 22:03:22,0.414s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:03:22,14-02-2024 22:03:22,0.435s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:03:22,14-02-2024 22:03:23,0.569s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:03:23,14-02-2024 22:03:24,0.514s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:03:24,14-02-2024 22:03:25,1.004s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:03:25,14-02-2024 22:03:25,0.816s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:03:25,14-02-2024 22:03:26,0.417s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:03:26,14-02-2024 22:03:27,1.634s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:03:28,14-02-2024 22:03:40,12.752s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:03:28,14-02-2024 22:03:32,4.465s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:03:32,14-02-2024 22:03:33,1.211s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:03:33,14-02-2024 22:03:34,0.335s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:03:34,14-02-2024 22:03:34,0.659s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:03:34,14-02-2024 22:03:35,0.452s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:03:35,14-02-2024 22:03:35,0.555s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:03:35,14-02-2024 22:03:36,0.571s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:03:36,14-02-2024 22:03:36,0.538s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:03:36,14-02-2024 22:03:37,0.885s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:03:37,14-02-2024 22:03:38,0.711s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:03:38,14-02-2024 22:03:39,0.608s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:03:39,14-02-2024 22:03:40,1.691s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:03:40,14-02-2024 22:03:52,12.007s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:03:40,14-02-2024 22:03:45,4.076s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:03:45,14-02-2024 22:03:46,1.093s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:03:46,14-02-2024 22:03:46,0.466s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:03:46,14-02-2024 22:03:47,0.600s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:03:47,14-02-2024 22:03:47,0.354s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:03:47,14-02-2024 22:03:48,0.439s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:03:48,14-02-2024 22:03:48,0.521s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:03:48,14-02-2024 22:03:49,0.556s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:03:49,14-02-2024 22:03:49,0.887s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:03:49,14-02-2024 22:03:50,0.725s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:03:50,14-02-2024 22:03:51,0.606s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:03:51,14-02-2024 22:03:52,1.652s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:03:53,14-02-2024 22:04:06,12.984s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:03:53,14-02-2024 22:03:57,4.180s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:03:57,14-02-2024 22:03:58,1.161s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:03:58,14-02-2024 22:03:58,0.344s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:03:58,14-02-2024 22:03:59,0.592s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:03:59,14-02-2024 22:03:59,0.430s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:03:59,14-02-2024 22:04:00,0.419s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:04:00,14-02-2024 22:04:00,0.522s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:04:00,14-02-2024 22:04:01,0.489s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:04:01,14-02-2024 22:04:02,1.071s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:04:02,14-02-2024 22:04:03,1.570s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:04:03,14-02-2024 22:04:04,0.443s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:04:04,14-02-2024 22:04:06,1.701s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:04:06,14-02-2024 22:04:18,12.086s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:04:06,14-02-2024 22:04:10,4.065s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:04:10,14-02-2024 22:04:11,1.236s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:04:11,14-02-2024 22:04:11,0.377s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:04:11,14-02-2024 22:04:12,0.609s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:04:12,14-02-2024 22:04:12,0.435s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:04:12,14-02-2024 22:04:13,0.433s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:04:13,14-02-2024 22:04:13,0.578s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:04:13,14-02-2024 22:04:14,0.541s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:04:14,14-02-2024 22:04:15,0.926s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:04:15,14-02-2024 22:04:16,0.763s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:04:16,14-02-2024 22:04:16,0.390s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:04:16,14-02-2024 22:04:18,1.682s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:04:18,14-02-2024 22:04:30,12.431s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:04:18,14-02-2024 22:04:22,4.269s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:04:22,14-02-2024 22:04:23,1.178s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:04:23,14-02-2024 22:04:24,0.375s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:04:24,14-02-2024 22:04:24,0.503s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:04:24,14-02-2024 22:04:25,0.409s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:04:25,14-02-2024 22:04:25,0.480s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:04:25,14-02-2024 22:04:26,0.593s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:04:26,14-02-2024 22:04:26,0.524s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:04:26,14-02-2024 22:04:27,0.992s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:04:27,14-02-2024 22:04:28,0.684s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:04:28,14-02-2024 22:04:29,0.629s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:04:29,14-02-2024 22:04:30,1.765s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_006,Chrome 121.0.0.0,,,14-02-2024 22:04:30,14-02-2024 22:04:43,12.133s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,14-02-2024 22:04:30,14-02-2024 22:04:35,4.207s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), Facility, true)",Chrome 121.0.0.0,,,14-02-2024 22:04:35,14-02-2024 22:04:36,1.174s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/div_input-group-addon""))",Chrome 121.0.0.0,,,14-02-2024 22:04:36,14-02-2024 22:04:36,0.400s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_February 2024""))",Chrome 121.0.0.0,,,14-02-2024 22:04:36,14-02-2024 22:04:37,0.558s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/th_2024""))",Chrome 121.0.0.0,,,14-02-2024 22:04:37,14-02-2024 22:04:37,0.405s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/yearObject"", [""year_value"":Year]))",Chrome 121.0.0.0,,,14-02-2024 22:04:37,14-02-2024 22:04:38,0.386s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/monthObject"", [""month_value"":Month]))",Chrome 121.0.0.0,,,14-02-2024 22:04:38,14-02-2024 22:04:38,0.535s,PASSED
+"click(findTestObject(""CURA_OR/Page_CURA Healthcare Service/dateObject"", [""date_value"":date]))",Chrome 121.0.0.0,,,14-02-2024 22:04:38,14-02-2024 22:04:39,0.593s,PASSED
+"setText(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/textarea_comment""), Comments)",Chrome 121.0.0.0,,,14-02-2024 22:04:39,14-02-2024 22:04:40,1.041s,PASSED
+"click(findTestObject(""Object Repository/CURA_OR/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 121.0.0.0,,,14-02-2024 22:04:40,14-02-2024 22:04:40,0.708s,PASSED
+"verifyElementText(findTestObject(""CURA_OR/Page_CURA Healthcare Service/h2_Appointment Confirmation""), ""Appointment Confirmation"")",Chrome 121.0.0.0,,,14-02-2024 22:04:40,14-02-2024 22:04:41,0.363s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,14-02-2024 22:04:41,14-02-2024 22:04:43,1.719s,PASSED
